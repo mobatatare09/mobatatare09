@@ -1,4 +1,4 @@
-# Hi, I am [Florin] 👋
+# Hi, I am Florin 👋
 
 ## Cybersecurity Analyst | Pen-Tester in Training
 
