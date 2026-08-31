@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I am [Florin] 👋
 
-<!--
-**mobatatare09/mobatatare09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Analyst | Pen-Tester in Training
 
-Here are some ideas to get you started:
+I recently completed an intensive 8-week cybersecurity programme covering:
+- Network scanning and reconnaissance (Nmap, Wireshark)
+- Vulnerability assessment (Nessus, OpenVAS)
+- Web application security (OWASP Top 10, SQL injection, XSS)
+- System exploitation and privilege escalation (Metasploit)
+- SOC operations and incident response (Splunk SIEM)
+- Cloud security (AWS IAM, CloudTrail, GuardDuty)
+- Security automation with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+- 🔍 [Python Security Scanner](https://github.com/mobatatare09/Security-Automation-With-Python) — Custom port scanner and banner grabber
+- 📝 [Web App Pentest Report] — Professional penetration test report
+- 🏢 [Enterprise Security Audit] — Full network security audit
+- 🛡️ [SOC Analyst Simulation] — Incident triage and response
+- 🔒 [Security Assessment (Capstone)] — Complete security assessment
+- ♔  [Pawn's Play] — Chess game I made using JavaScript and CSS
+
+## Certifications
+- CompTIA Security+ (in progress)
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/florin-niculcea/]
+- Email: [florinniculcea12@gmail.com]
+  
