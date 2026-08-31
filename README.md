@@ -17,7 +17,7 @@ I recently completed an intensive 8-week cybersecurity programme covering:
 - 🏢 [Enterprise Security Audit] — Full network security audit
 - 🛡️ [SOC Analyst Simulation] — Incident triage and response
 - 🔒 [Security Assessment (Capstone)] — Complete security assessment
-- ♔  [Pawn's Play] — Chess game I made using JavaScript and CSS
+- ♔  [Pawn's Play](https://github.com/mobatatare09/Pawn-s-Play/tree/main) — Chess game I made using JavaScript and CSS
 
 ## Certifications
 - CompTIA Security+ (in progress)
