@@ -1,6 +1,6 @@
 # Hi, I am Florin 👋
 
-## Cybersecurity Analyst | Pen-Tester in Training
+## Cybersecurity Analyst | SOC Security Analyst in Training
 
 I recently completed an intensive 8-week cybersecurity programme covering:
 - Network scanning and reconnaissance (Nmap, Wireshark)
